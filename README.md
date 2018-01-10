@@ -15,6 +15,8 @@ Padrão de Design Genexus ControllerWeb
    
 2. Padrão das TRANSACTIONS;
 
+   ![alt_tag](https://hzr59a-dm2305.files.1drv.com/y4mv0xZK0g40k6FCu0cXth8tWt2UCPXgFhhOT1GGCBsLwsmT3Taiiun2boa5Q-O080QtkEgFrEEH7rV2Ck3wgpCy63o68TLdOUePlViGVSb2rFBeIZoG5_iY7nhFZuCe997A8OE-YbL5obwkzd7JRkh3ymBjsC5yhxvweNwQg7ByK2zG-36hmj5zJNOcdXxmUOuQoybmbxoAXK7KbBh7ocSVw?width=1920&height=984&cropmode=none)
+
 3. Padrão dos Prompts;
 
    ![alt_tag](https://jjrtug-dm2305.files.1drv.com/y4mKWDq9N_ng4XvMjXb5wKX4fd5XYlly9X9RGveDQwoellSrMrbTLHQLm6oGF17WMpjAgS3U6eC0cnfwLwp2543OW2B4oSZ7sHX-nNfTTPtnjmEpK8WXc6eSP60D7f4IHHxE_k07tQh3YQkuP8kn8tEb7Z71DbEHV1c7K9rzjvawB81XxMOKROW-Olspr1TSCHW-sfTt8986Yao6M_poh2Qww?width=934&height=636&cropmode=none)

@@ -2,6 +2,7 @@
 Padrão de Design Genexus ControllerWeb
 
 * Data Criação : **10/01/2018**
+***
 
 1. Padrão dos CRUDS(insert, update, delete) com Pattern wwplus;
    

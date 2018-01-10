@@ -2,6 +2,11 @@
 Padrão de Design Genexus ControllerWeb
 
 * Data Criação : **10/01/2018**
+
+[ ] - Melhorar segurança(conforme papeis) dos Menus superiores;
+
+[ ] - Aprovar Menu com Edward;
+
 ***
 
 1. Padrão dos CRUDS(insert, update, delete) com Pattern wwplus;

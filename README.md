@@ -29,6 +29,8 @@ Padrão de Design Genexus ControllerWeb
 
 4. Padrão de Webpanels;
 
+   ![alt_tag](https://hzr89a-dm2305.files.1drv.com/y4mI4RAYDYsZ78eHOiQyckcuWOFV3e8LL57eXvTpCDgC421nxsPfiqKwy_DgcfUpF5jZvF9HG7bPr3mgkmEBLZcxWomQ2DDvugBoPUkrk2hXCl15TzI841gA7iHfdWZKhoYCy33v_Y9f97OBJnj8XsTEtmVNE9nnB2JNb_PzfA974kiEr1P7FuB44udnqdzIYoJb5GX1MRGCJPjxU4zCPtTJg?width=915&height=917&cropmode=none)
+
 5. Padrão dos Relatórios;
 
 6. Padrão dos Menus;

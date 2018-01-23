@@ -27,7 +27,7 @@ Padrão de Design Genexus ControllerWeb
    
    ```
    lblIcon.Caption = PIcone.Udp('ico1', 'ico_direita glyphicon glyphicon-floppy-disk')
-	lblIconFechar.Caption = PIcone.Udp('ico2', 'ico_direita_preto glyphicon glyphicon-share-alt'
+	lblIconFechar.Caption = PIcone.Udp('ico2', 'ico_direita_preto glyphicon glyphicon-share-alt')
 	lblIconFecharVenda.Caption = PIcone.Udp('ico3', 'ico_direita glyphicon glyphicon-floppy-disk')
 	
 	If &Mode = 'DLT'

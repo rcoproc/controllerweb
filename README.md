@@ -79,11 +79,12 @@ Padrão de Design Genexus ControllerWeb
 
    **PIcone.Udp('ico1', 'ico_direita glyphicon glyphicon-floppy-disk')** - Retorna o HTML da tag <i></i>
    
-   **PRCMontaMsg.Call(&MessagesTela, lblMensagens.Caption)**        - Retorna o HTML das mensagens(ALERT) padrão BOOTSTRAP
-   
    **PRetornaMegaMenu()**                                           - Retorna o HTML do Menu Superior padrão Mega Menu
    
-   Exemplo de uso:
+   **PRCMontaMsg.Call(&MessagesTela, lblMensagens.Caption)**        - Retorna o HTML das mensagens(ALERT) padrão BOOTSTRAP
+   
+  
+   Exemplo de uso(PRCMontaMsg):
 
    ```
 	Sub 'Show Messages'

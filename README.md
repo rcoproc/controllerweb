@@ -64,13 +64,13 @@ Padrão de Design Genexus ControllerWeb
 
 7. Principais Classes utilizadas;
    
-   btn btn-primary             - Botão Verde Escuro do Confirmar
+   **btn btn-primary**             - Botão Verde Escuro do Confirmar
    
-   espaco_ico_esquerdo         - Espaço do ícone esquerdo do botão
+   **espaco_ico_esquerdo**         - Espaço do ícone esquerdo do botão
    
-   btn btn-default             - Botão Cinza com texto Preto ( Eliminar, Fechar )
+   **btn btn-default**             - Botão Cinza com texto Preto ( Eliminar, Fechar )
    
-   MarginLeft5px               - Espaço Esquerdo entre os botões
+   **MarginLeft5px**               - Espaço Esquerdo entre os botões
    
    
    

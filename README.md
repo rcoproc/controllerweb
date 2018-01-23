@@ -26,12 +26,12 @@ Padrão de Design Genexus ControllerWeb
    Exemplo de chamada no evento Start:
    
    ```
-   lblIcon.Caption = PIcone.Udp('ico_direita', 'glyphicon glyphicon-floppy-disk')
-	lblIconFechar.Caption = PIcone.Udp('ico_direita_preto', 'glyphicon glyphicon-share-alt')
-	lblIconFecharVenda.Caption = PIcone.Udp('ico_direita', 'glyphicon glyphicon-floppy-disk')
+   lblIcon.Caption = PIcone.Udp('ico1', 'ico_direita glyphicon glyphicon-floppy-disk')
+	lblIconFechar.Caption = PIcone.Udp('ico2', 'ico_direita_preto glyphicon glyphicon-share-alt'
+	lblIconFecharVenda.Caption = PIcone.Udp('ico3', 'ico_direita glyphicon glyphicon-floppy-disk')
 	
 	If &Mode = 'DLT'
-		lblIconEliminar.Caption = PIcone.Udp('ico_direita_preto', 'glyphicon glyphicon-handshake-o')
+		lblIconEliminar.Caption = PIcone.Udp('ico4', 'ico_direita_preto glyphicon glyphicon-handshake-o')
 		lblIconFecharVenda.Caption = ''
 	Else
 		lblIconEliminar.Caption = ''
@@ -77,7 +77,7 @@ Padrão de Design Genexus ControllerWeb
 
 8. Fontes e components CSS/JAVASCRIPT utilizados;
 
-   **PIcone.Udp('ico_direita', 'glyphicon glyphicon-floppy-disk')** - Retorna o HTML da tag <i></i>
+   **PIcone.Udp('ico1', 'ico_direita glyphicon glyphicon-floppy-disk')** - Retorna o HTML da tag <i></i>
    
    **PRCMontaMsg.Call(&MessagesTela, lblMensagens.Caption)**        - Retorna o HTML das mensagens(ALERT) padrão BOOTSTRAP
    

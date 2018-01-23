@@ -81,6 +81,8 @@ Padrão de Design Genexus ControllerWeb
    
    **PRCMontaMsg.Call(&MessagesTela, lblMensagens.Caption)**        - Retorna o HTML das mensagens(ALERT) padrão BOOTSTRAP
    
+   **PRetornaMegaMenu()**                                           - Retorna o HTML do Menu Superior padrão Mega Menu
+   
    Exemplo de uso:
 
    ```

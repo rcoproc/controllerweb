@@ -58,10 +58,22 @@ Padrão de Design Genexus ControllerWeb
    ![alt_tag](https://hzr89a-dm2305.files.1drv.com/y4mI4RAYDYsZ78eHOiQyckcuWOFV3e8LL57eXvTpCDgC421nxsPfiqKwy_DgcfUpF5jZvF9HG7bPr3mgkmEBLZcxWomQ2DDvugBoPUkrk2hXCl15TzI841gA7iHfdWZKhoYCy33v_Y9f97OBJnj8XsTEtmVNE9nnB2JNb_PzfA974kiEr1P7FuB44udnqdzIYoJb5GX1MRGCJPjxU4zCPtTJg?width=915&height=917&cropmode=none)
 
 5. Padrão dos Relatórios;
+   ![alt_tag](https://htr19a-dm2305.files.1drv.com/y4mHlRNni8TpFQMeaXIsL-05ubnUN5Jjuu_Kgt0W8cGxW0mP5W0VOIHSBPTafpmJA8Tl5uMj5brUfw5jawAjiYjxXcF4yOqpFwFK7pAIc7vpEZhCbPeo7tH74mXtbPF94CMufCm_d7QOGW0HtAIYb3ceS-Wl-dvOY3FZ2xB8-LThtxa8JyQqiDA5W_Gq1SbDb1IFT6PfUJ2bcNEmjqaHHMc2g?width=1280&height=928&cropmode=none)
 
 6. Padrão dos Menus;
 
 7. Principais Classes utilizadas;
+   
+   btn btn-primary             - Botão Verde Escuro do Confirmar
+   
+   espaco_ico_esquerdo         - Espaço do ícone esquerdo do botão
+   
+   btn btn-default             - Botão Cinza com texto Preto ( Eliminar, Fechar )
+   
+   MarginLeft5px               - Espaço Esquerdo entre os botões
+   
+   
+   
 
 8. Fontes e components CSS/JAVASCRIPT utilizados;
 

@@ -77,3 +77,27 @@ Padrão de Design Genexus ControllerWeb
 
 8. Fontes e components CSS/JAVASCRIPT utilizados;
 
+   **PIcone.Udp('ico_direita', 'glyphicon glyphicon-floppy-disk')** - Retorna o HTML da tag <i></i>
+   
+   **PRCMontaMsg.Call(&MessagesTela, lblMensagens.Caption)**        - Retorna o HTML das mensagens(ALERT) padrão BOOTSTRAP
+   
+   Exemplo de uso:
+
+   ```
+	Sub 'Show Messages'
+
+		lblMensagens.Caption = ''
+		&MessagesTela = New()
+		For &Message in &Messages
+			&Erro = New Messages.Message()
+			if not &Message.Id.IsEmpty()
+				&Erro.Description = Format('ERRO: %1 - %2', &Message.Id, &Message.Description)
+			Else
+				&Erro.Description = Format('ERRO: %1', &Message.Description)
+			Endif			
+			&MessagesTela.Add(&Erro)
+			PRCMontaMsg.Call(&MessagesTela, lblMensagens.Caption)
+		EndFor
+   ```
+	EndSub
+

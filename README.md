@@ -3,6 +3,8 @@ Padrão de Design Genexus ControllerWeb
 
 * Data Criação : **10/01/2018**
 
+[ ] - Utilização de ícons padrão Glyphicon e FontAwesome;
+
 [ ] - Melhorar segurança(conforme papeis) dos Menus superiores;
 
 [ ] - Aprovar Menu com Edward;
@@ -18,6 +20,27 @@ Padrão de Design Genexus ControllerWeb
    * Observar bem a posição do componente Error Viewer
    
    ![alt_tag](https://jjrjug-dm2305.files.1drv.com/y4mSa4QcUlZERCDxR1Gzi6kYXOc90o22ifAl_jJCnz20svBsRZuaU8pPMPFW2PqovrXoUJO9VLcXtRpLdubSyg1wTv_Ye_MR_e6GX4cKQ2rk71_MY7wTljHCZC85N91P6YGoSInuzhcHsnls-GfzwwCojxCxDel-L81yeH3tLzjVOXhSiAdj8V2KsWjXVJlISYoFn0y9JGbZ4Io9Yp-xGIkcQ?width=1254&height=898&cropmode=none)
+   
+   **Alterado em 23/01/2018 ( Fundo Branco e Cinza nos selections e botões com icones )**
+   
+   Exemplo de chamada no evento Start:
+   
+   ```
+   lblIcon.Caption = PIcone.Udp('ico_direita', 'glyphicon glyphicon-floppy-disk')
+	lblIconFechar.Caption = PIcone.Udp('ico_direita_preto', 'glyphicon glyphicon-share-alt')
+	lblIconFecharVenda.Caption = PIcone.Udp('ico_direita', 'glyphicon glyphicon-floppy-disk')
+	
+	If &Mode = 'DLT'
+		lblIconEliminar.Caption = PIcone.Udp('ico_direita_preto', 'glyphicon glyphicon-handshake-o')
+		lblIconFecharVenda.Caption = ''
+	Else
+		lblIconEliminar.Caption = ''
+	Endif
+   ```
+   
+   >>As classes ico_direita , e ico_direita_preto apenas posicionam o icone a direita com textos brancos ou preto. Estão lá no Thema.
+   
+   
    
 2. Padrão das TRANSACTIONS;
 

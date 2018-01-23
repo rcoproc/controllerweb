@@ -40,6 +40,8 @@ Padrão de Design Genexus ControllerWeb
    
    >>As classes ico_direita , e ico_direita_preto apenas posicionam o icone a direita com textos brancos ou preto. Estão lá no Thema.
    
+   ![alt_tag](https://htr89a-dm2305.files.1drv.com/y4msy7PPUNKIqH_diFuyfyFaTztW6zf-PQrwBjMMfFhNM6NmflKQkxI2buPZwpNkLqMYab7zEFsxq6gl_2szwPFsk2FYBJJ2jhW9EYDieiKOLfcOlrzRain3qsAZQoG4NSyAIIwtKnI0LaHtXvAltRO7imElDm5v3bC1IjuP5fk8USw09X-B6wj_uaEjAeI_Hzbqm1eWujJtRgRXMwpsIDzBA?width=1920&height=1050&cropmode=none)
+   
    ![alt_tag](https://htr79a-dm2305.files.1drv.com/y4mJXmYezzW99TYlDv9KB5Uiq9lqxZ1vuoSo4_QuvuBn-xwWaRaTQoE3_UxFb5hGGyfyRJYnKUCqG52n2PWztBbW4Z0hlMVbCOan_z7N77S99TfNLNLeOaB98CKkkvPRScbEMDI4Du-qgggVC2pPzkY4s7WivIMQIQS5zCCpTjS0WpToSTC5_-yZUFQPC-Db1k8eaKCKo9LZv_9KbVmZRPqPQ?width=1280&height=928&cropmode=none)
    
    

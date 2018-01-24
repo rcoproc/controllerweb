@@ -3,7 +3,7 @@ Padrão de Design Genexus ControllerWeb
 
 * Data Criação : **10/01/2018**
 
-[ ] - Utilização de ícons padrão Glyphicon e FontAwesome;
+[X] - Utilização de ícons padrão Glyphicon ~~e FontAwesome~~;
 
 [ ] - Melhorar segurança(conforme papeis) dos Menus superiores;
 
@@ -54,8 +54,18 @@ Padrão de Design Genexus ControllerWeb
    ![alt_tag](https://jjrtug-dm2305.files.1drv.com/y4mKWDq9N_ng4XvMjXb5wKX4fd5XYlly9X9RGveDQwoellSrMrbTLHQLm6oGF17WMpjAgS3U6eC0cnfwLwp2543OW2B4oSZ7sHX-nNfTTPtnjmEpK8WXc6eSP60D7f4IHHxE_k07tQh3YQkuP8kn8tEb7Z71DbEHV1c7K9rzjvawB81XxMOKROW-Olspr1TSCHW-sfTt8986Yao6M_poh2Qww?width=934&height=636&cropmode=none)
 
 4. Padrão de Webpanels;
+   
+   Exemplo 1: **wbaixareceberlancto**
 
    ![alt_tag](https://hzr89a-dm2305.files.1drv.com/y4mI4RAYDYsZ78eHOiQyckcuWOFV3e8LL57eXvTpCDgC421nxsPfiqKwy_DgcfUpF5jZvF9HG7bPr3mgkmEBLZcxWomQ2DDvugBoPUkrk2hXCl15TzI841gA7iHfdWZKhoYCy33v_Y9f97OBJnj8XsTEtmVNE9nnB2JNb_PzfA974kiEr1P7FuB44udnqdzIYoJb5GX1MRGCJPjxU4zCPtTJg?width=915&height=917&cropmode=none)
+   
+   Exemplo 2: **WNotadeCompPreco**
+   
+   ![alt_tag](https://htr29a-dm2305.files.1drv.com/y4mRz42yyDqurfSM-hsjxn_KEaHjyiSuh-crY-odCAl6QNSqflb9OuxIALEXaLAPl6yBkD0U2TWaBhixCWFRZhTptQrvMt96FnyM5oqibGbGXjrDdrT86pf1DHvQdSc1DZVMKPBIMrk_eqeOvj3Ru5_-tD_l-XwUSMDeMXjKQ0PE0oi7CQujRBwCbyukoHoLWgdvFvJ7PGuvXpTVlruqaWZSg?width=1280&height=928&cropmode=none)
+   
+   
+   ![alt_tag](https://htr39a-dm2305.files.1drv.com/y4mU4NM2Y4cWGdFA1hrzCd_77SR-VbOPY-UsO_4yYAL2QM8HqiP-27ry0ED_lefRu-bPsW84yCfG8vcxrVacZlzGlwv6XUTnIjB2E7J5PXthk55hkcqagDWtU-9t9nsbVPREJRlJyRmYUxkbCHTEKLYufJ-KPS-K5y_G0nLpTtnDKY5DQPLh8OWul4TY5LNmVQGdFpXMCDeX-odE0VBzRxTXg?width=1920&height=1050&cropmode=none)
+   
 
 5. Padrão dos Relatórios;
    ![alt_tag](https://htr19a-dm2305.files.1drv.com/y4mHlRNni8TpFQMeaXIsL-05ubnUN5Jjuu_Kgt0W8cGxW0mP5W0VOIHSBPTafpmJA8Tl5uMj5brUfw5jawAjiYjxXcF4yOqpFwFK7pAIc7vpEZhCbPeo7tH74mXtbPF94CMufCm_d7QOGW0HtAIYb3ceS-Wl-dvOY3FZ2xB8-LThtxa8JyQqiDA5W_Gq1SbDb1IFT6PfUJ2bcNEmjqaHHMc2g?width=1280&height=928&cropmode=none)

@@ -11,7 +11,7 @@ Padrão de Design Genexus ControllerWeb
 
 ***
 
-1. Padrão dos CRUDS(insert, update, delete) com Pattern wwplus;
+1. **Padrão dos CRUDS(insert, update, delete) com Pattern wwplus**;
    
    * A classe do botão é "bottom_actions" , bottom com m
 
@@ -45,15 +45,15 @@ Padrão de Design Genexus ControllerWeb
    ![alt_tag](https://htr79a-dm2305.files.1drv.com/y4mJXmYezzW99TYlDv9KB5Uiq9lqxZ1vuoSo4_QuvuBn-xwWaRaTQoE3_UxFb5hGGyfyRJYnKUCqG52n2PWztBbW4Z0hlMVbCOan_z7N77S99TfNLNLeOaB98CKkkvPRScbEMDI4Du-qgggVC2pPzkY4s7WivIMQIQS5zCCpTjS0WpToSTC5_-yZUFQPC-Db1k8eaKCKo9LZv_9KbVmZRPqPQ?width=1280&height=928&cropmode=none)
    
    
-2. Padrão das TRANSACTIONS;
+2. **Padrão das TRANSACTIONS**;
 
    ![alt_tag](https://hzr59a-dm2305.files.1drv.com/y4mv0xZK0g40k6FCu0cXth8tWt2UCPXgFhhOT1GGCBsLwsmT3Taiiun2boa5Q-O080QtkEgFrEEH7rV2Ck3wgpCy63o68TLdOUePlViGVSb2rFBeIZoG5_iY7nhFZuCe997A8OE-YbL5obwkzd7JRkh3ymBjsC5yhxvweNwQg7ByK2zG-36hmj5zJNOcdXxmUOuQoybmbxoAXK7KbBh7ocSVw?width=1920&height=984&cropmode=none)
 
-3. Padrão dos Prompts;
+3. **Padrão dos Prompts**;
 
    ![alt_tag](https://jjrtug-dm2305.files.1drv.com/y4mKWDq9N_ng4XvMjXb5wKX4fd5XYlly9X9RGveDQwoellSrMrbTLHQLm6oGF17WMpjAgS3U6eC0cnfwLwp2543OW2B4oSZ7sHX-nNfTTPtnjmEpK8WXc6eSP60D7f4IHHxE_k07tQh3YQkuP8kn8tEb7Z71DbEHV1c7K9rzjvawB81XxMOKROW-Olspr1TSCHW-sfTt8986Yao6M_poh2Qww?width=934&height=636&cropmode=none)
 
-4. Padrão de Webpanels;
+4. **Padrão de Webpanels**;
    
    Exemplo 1: **wbaixareceberlancto**
 
@@ -67,12 +67,13 @@ Padrão de Design Genexus ControllerWeb
    ![alt_tag](https://htr39a-dm2305.files.1drv.com/y4mU4NM2Y4cWGdFA1hrzCd_77SR-VbOPY-UsO_4yYAL2QM8HqiP-27ry0ED_lefRu-bPsW84yCfG8vcxrVacZlzGlwv6XUTnIjB2E7J5PXthk55hkcqagDWtU-9t9nsbVPREJRlJyRmYUxkbCHTEKLYufJ-KPS-K5y_G0nLpTtnDKY5DQPLh8OWul4TY5LNmVQGdFpXMCDeX-odE0VBzRxTXg?width=1920&height=1050&cropmode=none)
    
 
-5. Padrão dos Relatórios;
+5. **Padrão dos Relatórios**;
+
    ![alt_tag](https://htr19a-dm2305.files.1drv.com/y4mHlRNni8TpFQMeaXIsL-05ubnUN5Jjuu_Kgt0W8cGxW0mP5W0VOIHSBPTafpmJA8Tl5uMj5brUfw5jawAjiYjxXcF4yOqpFwFK7pAIc7vpEZhCbPeo7tH74mXtbPF94CMufCm_d7QOGW0HtAIYb3ceS-Wl-dvOY3FZ2xB8-LThtxa8JyQqiDA5W_Gq1SbDb1IFT6PfUJ2bcNEmjqaHHMc2g?width=1280&height=928&cropmode=none)
 
-6. Padrão dos Menus;
+6. **Padrão dos Menus**;
 
-7. Principais Classes utilizadas;
+7. **Principais Classes utilizadas**;
    
    **btn btn-primary**             - Botão Verde Escuro do Confirmar
    
@@ -85,7 +86,7 @@ Padrão de Design Genexus ControllerWeb
    
    
 
-8. Fontes e components CSS/JAVASCRIPT utilizados;
+8. **Fontes e components CSS/JAVASCRIPT utilizados**;
 
    **PIcone.Udp('ico1', 'ico_direita glyphicon glyphicon-floppy-disk')** - Retorna o HTML da tag <i></i>
    

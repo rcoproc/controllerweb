@@ -83,6 +83,8 @@ Padrão de Design Genexus ControllerWeb
    
    **MarginLeft5px**               - Espaço Esquerdo entre os botões
    
+   **padding_right_zero**          - Cabeçalho de alguns ww sem o botão "Mais Opções"
+   
    
    
 
